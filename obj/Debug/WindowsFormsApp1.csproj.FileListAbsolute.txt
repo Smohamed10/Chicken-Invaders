@@ -1,0 +1,17 @@
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\Interop.MediaPlayer.dll
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\Interop.WMLSS.dll
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\Interop.WMPDXMLib.dll
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\Interop.WMPLauncher.dll
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+E:\MSA\MultiMedia\Mini Game\WindowsFormsApp1\obj\Debug\Interop.WMPNSSCI.dll
